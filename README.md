@@ -16,7 +16,7 @@
 - 👨‍💻 Former Intern at **Tech Mahindra (AI)** & **CodTech IT Solutions**  
 - 🌱 Passionate about **automation & impactful web apps**  
 - 💬 Open to **collaborations & open source contributions**  
-- 📫 Reach me: [🌐 Portfolio](https://sumit-portfolio-72.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/sumitkadam07)  
+- 📫 Reach me: [🌐 Portfolio](https://sumit-kadam-portfolio.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/sumitkadam07)  
 
 ---
 
