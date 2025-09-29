@@ -12,7 +12,7 @@
 ## ✨ About Me  
 
 - 🔭 Exploring **MERN Stack** & **AI-based projects**  
-- 🎓 Pursuing **B.Tech in IT (2021–2025)** at Dr. Babasaheb Ambedkar Technological University  
+- 🎓 Completed **B.Tech in IT (2021–2025)** at Dr. Babasaheb Ambedkar Technological University  
 - 👨‍💻 Former Intern at **Tech Mahindra (AI)** & **CodTech IT Solutions**  
 - 🌱 Passionate about **automation & impactful web apps**  
 - 💬 Open to **collaborations & open source contributions**  
